@@ -1,4 +1,4 @@
-# pinbridge-io
+# PinBridge
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,161 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-pinbridge-io is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://pinbridge.io/
+PinBridge provides a platform that enables AI assistants, automation tools, and applications to publish content directly to Pinterest. By offering a simple API and integrations with popular AI models like Claude and ChatGPT, as well as workflow tools such as n8n and Shopify, PinBridge lets users schedule pins, automate marketing campaigns, and manage Pinterest boards without writing code. The service includes features like retry on failed pins, scheduling, and webhook support, targeting marketers and developers seeking to streamline their Pinterest presence.
+
+**Areas:** Pinterest · Social Media Publishing · API · Automation · AI Assistants · E‑commerce · Agency Tools
+
+## PinBridge on APIs.io
+
+Everything profiled for PinBridge is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pinbridge-io/](https://apis.io/providers/pinbridge-io/)** — or go straight to one of the APIs or properties below.
+
+### APIs (18)
+
+- [PinBridge Activity Logs API](https://apis.io/apis/pinbridge-io/pinbridge-io-activity-logs-api/) — The Activity Logs API from PinBridge — 1 operation(s) for activity logs.
+- [PinBridge Analytics API](https://apis.io/apis/pinbridge-io/pinbridge-io-analytics-api/) — The Analytics API from PinBridge — 3 operation(s) for analytics.
+- [PinBridge API Keys API](https://apis.io/apis/pinbridge-io/pinbridge-io-api-keys-api/) — The API Keys API from PinBridge — 2 operation(s) for api keys.
+- [PinBridge Assets API](https://apis.io/apis/pinbridge-io/pinbridge-io-assets-api/) — The Assets API from PinBridge — 5 operation(s) for assets.
+- [PinBridge Auth API](https://apis.io/apis/pinbridge-io/pinbridge-io-auth-api/) — The Auth API from PinBridge — 15 operation(s) for auth.
+- [PinBridge Billing API](https://apis.io/apis/pinbridge-io/pinbridge-io-billing-api/) — The Billing API from PinBridge — 1 operation(s) for billing.
+- [PinBridge Dashboard API](https://apis.io/apis/pinbridge-io/pinbridge-io-dashboard-api/) — The Dashboard API from PinBridge — 1 operation(s) for dashboard.
+- [PinBridge Email Preferences API](https://apis.io/apis/pinbridge-io/pinbridge-io-email-preferences-api/) — The Email Preferences API from PinBridge — 2 operation(s) for email preferences.
+- [PinBridge Jobs API](https://apis.io/apis/pinbridge-io/pinbridge-io-jobs-api/) — The Jobs API from PinBridge — 1 operation(s) for jobs.
+- [PinBridge Link domains API](https://apis.io/apis/pinbridge-io/pinbridge-io-link-domains-api/) — The Link domains API from PinBridge — 2 operation(s) for link domains.
+- [PinBridge MCP API](https://apis.io/apis/pinbridge-io/pinbridge-io-mcp-api/) — The MCP API from PinBridge — 2 operation(s) for mcp.
+- [PinBridge Pins API](https://apis.io/apis/pinbridge-io/pinbridge-io-pins-api/) — The Pins API from PinBridge — 12 operation(s) for pins.
+- [PinBridge Pinterest API](https://apis.io/apis/pinbridge-io/pinbridge-io-pinterest-api/) — The Pinterest API from PinBridge — 9 operation(s) for pinterest.
+- [PinBridge Projects API](https://apis.io/apis/pinbridge-io/pinbridge-io-projects-api/) — The Projects API from PinBridge — 4 operation(s) for projects.
+- [PinBridge Rate Limiting API](https://apis.io/apis/pinbridge-io/pinbridge-io-rate-limiting-api/) — The Rate Limiting API from PinBridge — 1 operation(s) for rate limiting.
+- [PinBridge Schedules API](https://apis.io/apis/pinbridge-io/pinbridge-io-schedules-api/) — The Schedules API from PinBridge — 8 operation(s) for schedules.
+- [PinBridge Team API](https://apis.io/apis/pinbridge-io/pinbridge-io-team-api/) — The Team API from PinBridge — 7 operation(s) for team.
+- [PinBridge Webhooks API](https://apis.io/apis/pinbridge-io/pinbridge-io-webhooks-api/) — The Webhooks API from PinBridge — 2 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Pinbridge Io Webhooks](https://apis.io/asyncapis/pinbridge-io/pinbridge-io-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [PinBridge Agentic Access](https://apis.io/agentic-access/pinbridge-io/pinbridge-io-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [BillingStatusResponse](https://apis.io/schemas/pinbridge-io/pinbridge-io-billing-status-response/)
+- [PinCreate](https://apis.io/schemas/pinbridge-io/pinbridge-io-pin-create/)
+- [PinResponse](https://apis.io/schemas/pinbridge-io/pinbridge-io-pin-response/)
+- [ProfileResponse](https://apis.io/schemas/pinbridge-io/pinbridge-io-profile-response/)
+- [ScheduleCreate](https://apis.io/schemas/pinbridge-io/pinbridge-io-schedule-create/)
+- [ScheduleUpdate](https://apis.io/schemas/pinbridge-io/pinbridge-io-schedule-update/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Pinbridge Io Context](https://apis.io/jsonld/pinbridge-io/pinbridge-io-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [PinBridge API Rules](https://apis.io/rules/pinbridge-io/pinbridge-io-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [PinBridge Authentication](https://apis.io/security/pinbridge-io/pinbridge-io-authentication/)
+- [PinBridge Domain Security](https://apis.io/security/pinbridge-io/pinbridge-io-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [PinBridge Plans Pricing](https://apis.io/plans/pinbridge-io/pinbridge-io-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [PinBridge Rate Limits](https://apis.io/rate-limits/pinbridge-io/pinbridge-io-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pinbridge.io/)
+- [Documentation](https://www.pinbridge.io/docs/)
+- [API reference](https://api.pinbridge.io/docs)
+- [Pricing](https://app.pinbridge.io/pricing)
+- [Sign up](https://app.pinbridge.io/register)
+- [Changelog](https://feedback.pinbridge.io/changelog)
+- [Blog](https://www.pinbridge.io/blog/)
+- [Security](https://www.pinbridge.io/security/)
+- [Terms of service](https://www.pinbridge.io/terms/)
+- [Privacy policy](https://www.pinbridge.io/privacy/)
+- [Status](https://status.pinbridge.io/status/pinbridge)
+
+## API Evangelist rating
+
+**Kin Score 68.2** — exemplar · rubric 0.27.0 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 66.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 68.9 |
+| Developer ergonomics | 54.0 |
+| Access clarity | 73.2 |
+
+**Agent readiness 61.0** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/pinbridge-io/](https://apis.io/providers/pinbridge-io/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for PinBridge: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pinbridge-io/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
